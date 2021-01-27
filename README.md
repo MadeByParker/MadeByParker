@@ -4,6 +4,8 @@ Hello, nice to see you visiting my GitHub.
 
 I'm currently studying Cyber Security at the University of Plymouth. I'm passionate about stopping hackers.
 
+⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from love what I'm doing and being optimistic
+
 🔭 I’m currently working on ... :arrow_down:
 
 <!--
