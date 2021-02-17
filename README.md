@@ -8,7 +8,7 @@ I'm currently studying Cyber Security at the University of Plymouth. I'm passion
 
 🔭 I’m currently working on ... :arrow_down:
 
-A security dashboard
+A security dashboard, in progress
 
 <!--
 **harry-parker6/harry-parker6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
