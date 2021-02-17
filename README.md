@@ -6,11 +6,9 @@ I'm currently studying Cyber Security at the University of Plymouth. I'm passion
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from love what I'm doing and being optimistic
 
-Website: https://cysecapp.azurewebsites.net/
-
 🔭 I’m currently working on ... :arrow_down:
 
-![Website](https://github.com/Parker06/CySecApp-1004/blob/main/website.png)
+A security dashboard
 
 <!--
 **harry-parker6/harry-parker6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
