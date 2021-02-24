@@ -11,13 +11,13 @@ I'm currently studying Cyber Security at the University of Plymouth. I'm passion
 * A security dashboard - `in progress` - currently fixing web app with feedback.
 * A Mastermind Code - Breaker game for the console - `in progress`.
 * A Dungeon Crawler Console Game - `finished` - adding additional features.
+* Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
 
 Technologies Used:
 
 * Visual Studio 2019 / VSC.
 * Boostrap v4 / v5.
 * C# alongside JavaScript and currently learning Web Development.
-* Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
 
 <!--
 **harry-parker6/harry-parker6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
