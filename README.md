@@ -18,6 +18,7 @@ Technologies Used:
 * Visual Studio 2019 / VSC.
 * Boostrap v4 / v5.
 * C# alongside JavaScript and currently learning Web Development.
+* C# Console App
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Parker06)
 
