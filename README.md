@@ -21,7 +21,7 @@ Technologies Used:
 * C# Console App
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parker06&count_private=false&theme=cobaltt&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parker06&count_private=false&theme=cobalt&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&langs_count=10&theme=cobalt)]()
 
 <!--
