@@ -20,7 +20,9 @@ Technologies Used:
 * C# alongside JavaScript and currently learning Web Development.
 * C# Console App
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Parker06)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parker06&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&langs_count=5&theme=tokyonight)]()
 
 <!--
 **harry-parker6/harry-parker6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
