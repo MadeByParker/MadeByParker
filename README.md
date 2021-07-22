@@ -25,7 +25,7 @@ Technologies Used:
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Parker06&count_private=true&show_icons=true&theme=algolia " />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbruty&langs_count=5&theme=algolia " />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&langs_count=5&theme=algolia " />
 </div>
 
 
