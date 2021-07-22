@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, nice to see you visiting my GitHub. 
+Hello, nice to see you visiting my GitHub, I'm Harry. 
 
 I'm currently studying Cyber Security at the University of Plymouth, in my first year. I'm passionate about stopping hackers and making the digital world a safer place for the future generations.
 
@@ -8,8 +8,8 @@ I'm currently studying Cyber Security at the University of Plymouth, in my first
 
 🔭 I’m currently working on / my prjects are: ... :arrow_down:
 
-* A security dashboard - `in progress` - currently fixing web app with feedback from marketplace demostration.
-* A Mastermind Code - Breaker game for the console - `in progress`.
+* A security dashboard - `finished` - currently fixing web app with feedback from marketplace demostration.
+* A Mastermind Code - Breaker game for the console - `finished`.
 * A Dungeon Crawler Console Game - `finished` - adding additional features.
 * Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
 
@@ -17,9 +17,18 @@ Technologies Used:
 
 * Visual Studio 2019 / VSC.
 * Boostrap v4 / v5.
-* C# alongside JavaScript and currently learning Web Development.
-* C# Console App
+* C#
+* HTML, CSS, JavaScript
+* C# Console App (.NET Framework)
+* Google Firebase (Authenication, Cloud Storage and Hosting)
+* Microsoft Azure Hosting
 
+## 🌱 I'm currently learning:
+
+* React
+* MySQL
+* Swift
+* 
 ## ⚡GitHub Stats
 <!-- Stats -->
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
