@@ -8,7 +8,9 @@ I'm currently studying Cyber Security at the University of Plymouth, in my first
 
 🔭 I’m currently working on / my prjects are: ... :arrow_down:
 
-* A security dashboard - `finished` - currently fixing web app with feedback from marketplace demostration.
+* Tic Tac Toe using C# Windows Forms - `in progress`.
+* Spotify Web Player with lyrics - Used React - `finished`.
+* A security dashboard - `finished` - currently fixing web app with feedback from final marketplace demostration.
 * A Mastermind Code - Breaker game for the console - `finished`.
 * A Dungeon Crawler Console Game - `finished` - adding additional features.
 * Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
