@@ -30,7 +30,7 @@ Technologies Used:
 * React
 * MySQL
 * Swift
-* 
+
 ## ⚡GitHub Stats
 <!-- Stats -->
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
