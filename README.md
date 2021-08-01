@@ -6,7 +6,7 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from love what I'm doing and being optimistic.
 
-🔭 I’m currently working on / my prjects are: ... :arrow_down:
+## 🔭 I’m currently working on / my prjects are: ... :arrow_down:
 
 * Tic Tac Toe using C# Windows Forms - `in progress`.
 * Spotify Web Player with lyrics - Used React - `finished`.
@@ -15,7 +15,7 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 * A Dungeon Crawler Console Game - `finished` - adding additional features.
 * Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
 
-Technologies Used:
+## 💻 Technologies Used:
 
 * Visual Studio 2019 / VSC.
 * Boostrap v4 / v5.
