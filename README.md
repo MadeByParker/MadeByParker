@@ -6,13 +6,14 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from love what I'm doing and being optimistic.
 
-## 🔭 I’m currently working on / my prjects are: ... :arrow_down:
+## 🔭 I’m currently working on / my projects are: ... :arrow_down:
 
+* Various short Projects - `in progress`.
 * Tic Tac Toe using C# Windows Forms - `in progress`.
 * Spotify Web Player with lyrics - Used React - `finished`.
-* A security dashboard - `finished` - currently fixing web app with feedback from final marketplace demostration.
+* A security dashboard - `finished`.
 * A Mastermind Code - Breaker game for the console - `finished`.
-* A Dungeon Crawler Console Game - `finished` - adding additional features.
+* A Dungeon Crawler Console Game - `finished`.
 * Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
 
 ## 💻 Technologies Used:
@@ -29,7 +30,6 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 
 * React
 * MySQL
-* Swift
 
 ## ⚡GitHub Stats
 <!-- Stats -->
