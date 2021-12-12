@@ -32,6 +32,7 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 * React
 * MySQL
 * Java / Kotlin
+* Node JS
 
 ## ⚡GitHub Stats
 <!-- Stats -->
