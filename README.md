@@ -9,18 +9,21 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 ## 🔭 I’m currently working on / my projects are: ... :arrow_down:
 
 * Various short Projects - `in progress`.
-* Tic Tac Toe using C# Windows Forms - `in progress`.
+* Path algorithm solver visualiser in React - `in progress`.
 * Spotify Web Player with lyrics - Used React - `finished`.
 * A security dashboard - `finished`.
 * A Mastermind Code - Breaker game for the console - `finished`.
 * A Dungeon Crawler Console Game - `finished`.
 * Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
 * Portfolio with React JS and Tailwand CSS - `finished` - [Website](https://harryparker.co.uk)
+* FarmBnB mobile app 
+* Custom C# API + Mobile App to go with it.
 
 ## 💻 Technologies Used:
 
 * Visual Studio 2019 / VSC.
 * Boostrap v4 / v5.
+* Materialize CSS / Tailwind CSS
 * C#
 * HTML, CSS, JavaScript
 * C# Console App (.NET Framework)
@@ -30,9 +33,10 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 ## 🌱 I'm currently learning:
 
 * React
-* MySQL
+* MySQL / SQL Server
 * Java / Kotlin
 * Node JS
+* PHP
 
 ## ⚡GitHub Stats
 <!-- Stats -->
