@@ -16,8 +16,8 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 * A Dungeon Crawler Console Game - `finished`.
 * Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
 * Portfolio with React JS and Tailwand CSS - `finished` - [Website](https://harryparker.co.uk)
-* FarmBnB mobile app 
-* Custom C# API + Mobile App to go with it.
+* FarmBnB hotel booking mobile app - `finished`.
+* Custom C# API + Mobile App to go with it - `in progress`.
 
 ## 💻 Technologies Used:
 
