@@ -46,13 +46,10 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&langs_count=5&theme=algolia " />
 </div>
 
-## Preview
-
-![Skylines Preview](preivew.gif)
 
 ## Stories
 
-* [2021](https://skyline.github.com/parker06/2021)
+* [2021](https://github.com/Parker06/Readme-Extras/blob/main/Parker06-2021.stl)
 
 
 
