@@ -46,9 +46,6 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&langs_count=5&theme=algolia " />
 </div>
 
-<div>
-    <script src="https://embed.github.com/view/3d/Parker06/Readme-Extras/master/Parker06-2021.stl"></script>
-</div>
 
 
 
