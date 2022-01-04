@@ -2,7 +2,7 @@
 
 Hello, nice to see you visiting my GitHub, I'm Harry. 
 
-I'm currently studying Cyber Security at the University of Plymouth, going into my second year. I'm passionate about stopping hackers and making the digital world a safer place for the future generations.
+I'm currently studying Cyber Security at the University of Plymouth, currently in my second year. I'm passionate about stopping hackers and making the digital world a safer place for the future generations.
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from love what I'm doing and being optimistic.
 
@@ -17,7 +17,10 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 * Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
 * Portfolio with React JS and Tailwand CSS - `finished` - [Website](https://harryparker.co.uk)
 * FarmBnB hotel booking mobile app - `finished`.
-* Custom C# API + Mobile App to go with it - `in progress`.
+* Custom C# API - `in progress`.
+* Linked Data Application display Plymouth Bus Stop Locations - `in progress`
+* Storing Students enrolled on to multiple programmes in a Database + Mobile App to go with it - `in progress`.
+* Group Project, designing and building a website using Drupal - `in progress`.
 
 ## 💻 Technologies Used:
 
@@ -29,10 +32,10 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 * C# Console App (.NET Framework)
 * Google Firebase (Authenication, Cloud Storage and Hosting)
 * Microsoft Azure Hosting
+* React
 
 ## 🌱 I'm currently learning:
 
-* React
 * MySQL / SQL Server
 * Java / Kotlin
 * Node JS
