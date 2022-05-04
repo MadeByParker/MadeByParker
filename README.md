@@ -17,9 +17,9 @@ I'm currently studying Cyber Security at the University of Plymouth, in my secon
 * Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
 * Portfolio with React JS and Tailwand CSS - `finished` - [Website](https://harryparker.co.uk)
 * FarmBnB hotel booking mobile app - `finished`.
-* Custom C# API - `in progress`.
-* Linked Data Application display Plymouth Bus Stop Locations - `in progress`
-* Storing Students enrolled on to multiple programmes in a Database + Mobile App to go with it - `in progress`.
+* Custom C# API - `finished`.
+* Linked Data Application display Plymouth Bus Stop Locations - `finished`
+* Storing Students enrolled on to multiple programmes in a Database + Mobile App to go with it - `finished`.
 * Group Project, designing and building a website using Drupal - `in progress`.
 
 ## 💻 Technologies Used:
@@ -40,6 +40,8 @@ I'm currently studying Cyber Security at the University of Plymouth, in my secon
 * Java / Kotlin
 * Node JS
 * PHP
+* Drupal
+* Google Cloud
 
 ## ⚡GitHub Stats
 <!-- Stats -->
