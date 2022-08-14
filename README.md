@@ -47,8 +47,8 @@ I'm currently studying Cyber Security at the University of Plymouth, in my secon
 <!-- Stats -->
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
 <div>
-    <img align="left" src="![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Parker06&count_private=true&theme=dark&show_icons=true)" />
-    <img align="left" src="[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)" />
+    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Parker06&count_private=true&theme=dark&show_icons=true)
+    [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
