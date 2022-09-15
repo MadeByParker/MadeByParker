@@ -2,7 +2,7 @@
 
 Hello, nice to see you visiting my GitHub, I'm Harry. 
 
-I'm currently studying Cyber Security at the University of Plymouth, in my second year. I'm passionate about stopping hackers and making the digital world a safer place for the future generations.
+I'm currently studying Cyber Security at the University of Plymouth, going into my final year. I'm passionate about stopping hackers and making the digital world a safer place for the future generations.
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from love what I'm doing and being optimistic.
 
