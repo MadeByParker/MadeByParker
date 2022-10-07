@@ -8,8 +8,6 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 
 ## 🔭 I’m currently working on / my projects are: ... :arrow_down:
 
-* Various short Projects - `in progress`.
-* Path algorithm solver visualiser in React - `in progress`.
 * Spotify Web Player with lyrics - Used React - `finished`.
 * A security dashboard - `finished`.
 * A Mastermind Code - Breaker game for the console - `finished`.
