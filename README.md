@@ -20,7 +20,7 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 * Custom C# API - `finished`.
 * Linked Data Application display Plymouth Bus Stop Locations - `finished`
 * Storing Students enrolled on to multiple programmes in a Database + Mobile App to go with it - `finished`.
-* Group Project, designing and building a website using Drupal - `in progress`.
+* Group Project, designing and building a website using Drupal - `finished`.
 
 ## 💻 Technologies Used:
 
