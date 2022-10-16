@@ -44,8 +44,8 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 ## ⚡GitHub Stats
 <!-- Stats -->
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parker06&count_private=true&theme=onedark&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&langs_count=5&theme=onedark)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parker06&count_private=true&theme=react&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&langs_count=5&theme=react)]()
 
 
 
