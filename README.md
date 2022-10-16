@@ -18,7 +18,7 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 * Custom C# API - `finished`.
 * Linked Data Application display Plymouth Bus Stop Locations - `finished`
 * Storing Students enrolled on to multiple programmes in a Database + Mobile App to go with it - `finished`.
-* Group Project, designing and building a website using Drupal - `finished`.
+* Group Project, designing and building a website using Textpattern - `finished`.
 
 ## 💻 Technologies Used:
 
@@ -31,15 +31,13 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 * Google Firebase (Authenication, Cloud Storage and Hosting)
 * Microsoft Azure Hosting
 * React
+* PHP
 
 ## 🌱 I'm currently learning:
 
-* MySQL / SQL Server
 * Java / Kotlin
-* Node JS
-* PHP
-* Drupal
-* Google Cloud
+* React Native
+* Electron
 
 ## ⚡GitHub Stats
 <!-- Stats -->
