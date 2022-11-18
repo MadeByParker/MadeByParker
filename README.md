@@ -1,12 +1,36 @@
-# Hi there 👋
+![Hey there, I'm Harry. I'm a cyber security student, a web developer. Feel free to look around](https://github.com/Parker06/Parker06/blob/main/header.gif)
 
-Hello, nice to see you visiting my GitHub, I'm Harry. 
+# 👋 &nbsp;Hi there
 
-I'm currently studying Cyber Security at the University of Plymouth, going into my final year. I'm passionate about stopping hackers and making the digital world a safer place for the future generations.
+I'm a cyber security student based in England. I enjoy coding cyber security and artifical intelligence projects. I enjoy playing football, sometimes a bit too competitive and like to play video games. You can find me on Instagram [@harryparker_it](https://www.instagram.com/harry_parker_it/). Feel free to tweet me any time. You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from love what I'm doing and being optimistic.
 
-## 🔭 I’m currently working on / my projects are: ... :arrow_down:
+
+## 👇 &nbsp;Current project
+
+I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and Image Enhancement using Artificial Intelligence in CCTV footage to solve crimes with unidentified suspects or ones that are misidentified. It will be free.
+
+![FaceCCTV](https://github.com/Parker06/Parker06/blob/main/Banner.png)
+
+## 🧰 &nbsp;My toolbox
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
+
+&nbsp;
+
+## 🖥 &nbsp;Past work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker06&repo=COMP2003_2021-Group-B&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/COMP2003_2021-Group-B) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker06&repo=Turing-Machine-Simulator&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/Turing-Machine-Simulator)
+
+
+## ⚡GitHub Stats
+<!-- Stats -->
+<!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parker06&count_private=true&theme=github_dark&showicons=true)]()
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parker06&theme=github_dark&count_private=true&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)
+
+<!-- ## 🔭 I’m currently working on / my projects are: ... :arrow_down:
 
 * Spotify Web Player with lyrics - Used React - `finished`.
 * A security dashboard - `finished`.
@@ -39,16 +63,6 @@ I'm currently studying Cyber Security at the University of Plymouth, going into 
 * React Native
 * Electron
 
-## ⚡GitHub Stats
-<!-- Stats -->
-<!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parker06&count_private=true&theme=react&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parker06&langs_count=5&theme=react)]()
-
-
-
-
-<!--
 **harry-parker6/harry-parker6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
