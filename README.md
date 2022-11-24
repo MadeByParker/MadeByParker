@@ -1,4 +1,4 @@
-![Hey there, I'm Harry. I'm a cyber security student, a web developer. Feel free to look around](https://github.com/Parker06/Parker06/blob/main/header.gif)
+![Hey there, I'm Harry. I'm a cyber security student, a web developer. Feel free to look around](https://github.com/Parker06/Parker06/blob/main/readme.gif)
 
 # 👋 &nbsp;Hi there
 
