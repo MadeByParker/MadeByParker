@@ -11,7 +11,7 @@ I'm a final year Computer Science student, specialising in Cyber Security, based
 
 I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and Image Enhancement using Deep Learning Artificial Intelligence in CCTV footage to solve crimes with unidentified suspects or ones that are misidentified. It will be free.
 
-![FaceCCTV](https://github.com/Parker06/Parker06/blob/main/Banner.png)
+![FaceCCTV](https://github.com/Parker06/Parker06/blob/main/New%20Banner.jpg)
 
 ## 🧰 &nbsp;My toolbox
 
