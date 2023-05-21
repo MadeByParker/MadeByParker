@@ -22,7 +22,7 @@ I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker06&repo=COMP2003_2021-Group-B&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/COMP2003_2021-Group-B) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker06&repo=Turing-Machine-Simulator&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/Turing-Machine-Simulator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker06&repo=COMP2003_2021-Group-B&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/COMP2003_2021-Group-B) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker06&repo=Turing-Machine-Simulator&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/FaceCCTV)
 
 
 ## ⚡GitHub Stats
