@@ -1,15 +1,16 @@
-![Hey there, I'm Harry. I'm a cyber security student, a web developer. Feel free to look around](https://github.com/Parker06/Parker06/blob/main/header.gif)
+![Hey there, I'm Harry. I'm a cyber security student and a web developer. Feel free to look around](https://github.com/Parker06/Parker06/blob/main/header.gif)
 
 # 👋 &nbsp;Hi there
 
-I'm a final year Computer Science student, specialising in Cyber Security, based in England. I enjoy coding cyber security and artifical intelligence projects. I enjoy playing football, sometimes a bit too competitive and like to play video games. You can find me on Instagram [@harryparker_it](https://www.instagram.com/harry_parker_it/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
+I'm a final year Computer Science student, specialising in Cyber Security, based in England. I enjoy coding cyber security and artificial intelligence projects. I play football, sometimes a bit too competitive, and enjoy video games. You can find me on Instagram [@harryparker_it](https://www.instagram.com/harry_parker_it/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
 
-⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from love what I'm doing and being optimistic.
+⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from loving what I'm doing and being optimistic.
 
+Degree: BSc (Hons) Computer Science (Cyber Security) - 2:1 (Upper Second ) w/ 69% Average
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and Image Enhancement using Deep Learning Artificial Intelligence in CCTV footage to solve crimes with unidentified suspects or ones that are misidentified. It will be free.
+I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and Image Enhancement uses Deep Learning Artificial Intelligence in CCTV footage to solve crimes with unidentified suspects or misidentified ones. It will be free.
 
 ![FaceCCTV](https://github.com/Parker06/Parker06/blob/main/New%20Banner.jpg)
 
@@ -38,7 +39,7 @@ I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and
 * A Mastermind Code - Breaker game for the console - `finished`.
 * A Dungeon Crawler Console Game - `finished`.
 * Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
-* Portfolio with React JS and Tailwand CSS - `finished` - [Website](https://harryparker.co.uk)
+* Portfolio with React JS and Tailwind CSS - `finished` - [Website](https://harryparker.co.uk)
 * FarmBnB hotel booking mobile app - `finished`.
 * Custom C# API - `finished`.
 * Linked Data Application display Plymouth Bus Stop Locations - `finished`
@@ -53,7 +54,7 @@ I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and
 * C#
 * HTML, CSS, JavaScript
 * C# Console App (.NET Framework)
-* Google Firebase (Authenication, Cloud Storage and Hosting)
+* Google Firebase (Authentication, Cloud Storage, and Hosting)
 * Microsoft Azure Hosting
 * React
 * PHP
