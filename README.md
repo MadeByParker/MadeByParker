@@ -2,7 +2,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a final year Computer Science student, specialising in Cyber Security, based in England. I enjoy coding cyber security and artificial intelligence projects. I play football, sometimes a bit too competitive, and enjoy video games. You can find me on Instagram [@harryparker_it](https://www.instagram.com/harry_parker_it/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
+I'm a final year Computer Science student, specialising in Cyber Security, based in England. I enjoy coding cyber security and artificial intelligence projects. I play football, sometimes a bit too competitive, and enjoy video games. You can find me on Instagram [@_madebyparker](https://www.instagram.com/_madebyparker/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from loving what I'm doing and being optimistic.
 
