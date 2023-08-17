@@ -2,7 +2,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a final year Computer Science student, specialising in Cyber Security, based in England. I enjoy coding cyber security and artificial intelligence projects. I play football, sometimes a bit too competitive, and enjoy video games. You can find me on Instagram [@_madebyparker](https://www.instagram.com/_madebyparker/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
+I'm a final year Computer Science student, specialising in Cyber Security, based in England. I enjoy coding cyber security projects alongside creating interactive, user-friendly UI experiences. I play football, sometimes too competitive, and enjoy video games. You can find me on Instagram [@_madebyparker](https://www.instagram.com/_madebyparker/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from loving what I'm doing and being optimistic.
 
@@ -12,7 +12,7 @@ Degree: BSc (Hons) Computer Science (Cyber Security) - 2:1 (Upper Second ) w/ 69
 
 I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and Image Enhancement uses Deep Learning Artificial Intelligence in CCTV footage to solve crimes with unidentified suspects or misidentified ones. It will be free.
 
-![FaceCCTV](https://github.com/Parker06/Parker06/blob/main/New%20Banner.jpg)
+![FaceCCTV](https://github.com/MadeByParker/MadeByParker/blob/main/New%20Banner.jpg)
 
 ## 🧰 &nbsp;My toolbox
 
@@ -23,14 +23,14 @@ I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker06&repo=COMP2003_2021-Group-B&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/COMP2003_2021-Group-B) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parker06&repo=Turing-Machine-Simulator&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/FaceCCTV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=COMP2003_2021-Group-B&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/COMP2003_2021-Group-B) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/FaceCCTV)
 
 
 ## ⚡GitHub Stats
 <!-- Stats -->
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parker06&count_private=true&theme=github_dark&showicons=true)]()
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parker06&theme=github_dark&count_private=true&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MadeByParker&count_private=true&theme=github_dark&showicons=true)]()
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadeByParker&theme=github_dark&count_private=true&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)
 
 <!-- ## 🔭 I’m currently working on / my projects are: ... :arrow_down:
 
