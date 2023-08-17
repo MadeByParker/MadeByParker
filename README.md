@@ -6,7 +6,10 @@ I'm a final year Computer Science student, specialising in Cyber Security, based
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from loving what I'm doing and being optimistic.
 
-Degree: BSc (Hons) Computer Science (Cyber Security) - 2:1 (Upper Second ) w/ 69% Average
+### Education: 
+
+Plymouth University (2019 - 2020): BSc (Hons) Computer Science Foundation Year - 1st (First Class)
+Plymouth University (2020 - 2023): BSc (Hons) Computer Science (Cyber Security) - 2:1 (Upper Second) 
 
 ## 👇 &nbsp;Current project
 
