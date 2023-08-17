@@ -26,7 +26,7 @@ I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=COMP2003_2021-Group-B&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/Parker06/COMP2003_2021-Group-B) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/FaceCCTV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/Artificial_Intelligence_COMP2002) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/FaceCCTV)
 
 
 ## ⚡GitHub Stats
