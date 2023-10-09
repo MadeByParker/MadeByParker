@@ -1,10 +1,10 @@
-![Hey there, I'm Harry. I'm a cyber security student and a web developer. Feel free to look around](https://github.com/Parker06/Parker06/blob/main/header.gif)
+![Intro](https://github.com/Parker06/Parker06/blob/main/header.gif)
 
 # 👋 &nbsp;Hi there
 
 I'm a Computing and Cyber Security advocate, currently working in Data Forensics. I enjoy coding cyber security projects, wondering about how AI will take over the world alongside creating interactive, user-friendly UI websites. I play football, sometimes too competitive, enjoy playing video games and being an all-round good human being. You can find me on Instagram [@_madebyparker](https://www.instagram.com/_madebyparker/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
 
-⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from loving what I'm doing and being optimistic.
+⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from loving what I'm doing.
 
 ### Education: 
 
@@ -13,7 +13,7 @@ I'm a Computing and Cyber Security advocate, currently working in Data Forensics
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and Image Enhancement uses Deep Learning Artificial Intelligence in CCTV footage to solve crimes with unidentified suspects or misidentified ones. It will be free.
+I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and Image Enhancement uses Deep Learning Artificial Intelligence in CCTV footage to solve crimes with unidentified suspects or misidentified ones. It has been developed for my university dissertation. View the project [here](https://github.com/MadeByParker/FaceCCTV)
 
 ![FaceCCTV](https://github.com/MadeByParker/MadeByParker/blob/main/New%20Banner.jpg)
 
