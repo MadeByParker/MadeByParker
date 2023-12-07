@@ -13,7 +13,9 @@ I have a big interest in technology (more specifically Cyber Security and protec
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and Image Enhancement uses Deep Learning Artificial Intelligence in CCTV footage to solve crimes with unidentified suspects or misidentified ones. It has been developed for my university dissertation. View the project [here](https://github.com/MadeByParker/FaceCCTV)
+<h3><b>Coming Soon in 2024</b></h3>
+
+I'm currently working on my new developer portfolio website. This will incorporate all of my knowledge of Cyber Security and Web Development to design and create an 3D interactive portfolio which will display the arsenal of skills that I have obtained through education and self learning. Follow the journey [here](https://github.com/MadeByParker/Parker-Command-Central)
 
 ![FaceCCTV](https://github.com/MadeByParker/MadeByParker/blob/main/New%20Banner.jpg)
 
@@ -26,7 +28,7 @@ I'm currently working on FaceCCTV. A self-hosted solution for Face Detection and
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/Artificial_Intelligence_COMP2002) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/FaceCCTV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/COMP2002-Artificial-Intelligence-Projects) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/FaceCCTV)
 
 
 ## ⚡GitHub Stats
