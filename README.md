@@ -1,8 +1,8 @@
 ![Intro](https://github.com/Parker06/Parker06/blob/main/header.gif)
 
-# 👋 &nbsp;Hi there
+# 👋 &nbsp;Hi there, my name is Harry
 
-I'm a Computing and Cyber Security advocate, currently working in Data Forensics. I enjoy coding cyber security projects, wondering about how AI will take over the world alongside creating interactive, user-friendly UI websites. I play football, sometimes too competitive, enjoy playing video games and being an all-round good human being. You can find me on Instagram [@_madebyparker](https://www.instagram.com/_madebyparker/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
+I have a big interest in technology (more specifically Cyber Security and protecting people online), currently working in Data Forensics. I enjoy coding cyber security projects, wondering about how AI will take over the world alongside creating interactive, user-friendly UI websites. I play football, sometimes too passionate, enjoy playing video games and being an all-round good human being. You can find me on Instagram [@_madebyparker](https://www.instagram.com/_madebyparker/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from loving what I'm doing.
 
