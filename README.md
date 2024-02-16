@@ -104,7 +104,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MadeByParker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MadeByParker&bg_color=0d1116&color=41b883&line=41b883&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MadeByParker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MadeByParker&bg_color=273849&color=41b883&line=41b883&point=FFFFFF&hide_border=true" /></a>
   
 </details>
 
