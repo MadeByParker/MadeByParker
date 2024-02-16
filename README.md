@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/MadeByParker">
-    <img src="https://imgur.com/6gBBfs8.png" width="128px" height="183px"/>
+    <img src="https://imgur.com/6gBBfs8.png" height="128px"/>
   </a>
 </p>
 
