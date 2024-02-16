@@ -21,56 +21,94 @@
 
 <br/> 
 
-# 👋 &nbsp;Hi there, my name is Harry
+<p align="center">
+  <a href="https://github.com/MadeByParker">
+    <img src="https://imgur.com/6gBBfs8.png" width="192"/>
+  </a>
+</p>
 
-I have a big interest in technology (more specifically Cyber Security and protecting people online), currently working in Data Forensics. I enjoy coding cyber security projects, wondering about how AI will take over the world alongside creating interactive, user-friendly UI websites. I play football, sometimes too passionate, enjoy playing video games and being an all-round good human being. You can find me on Instagram [@_madebyparker](https://www.instagram.com/_madebyparker/). You can also check out my website [harryparker.co.uk](https://harryparker.co.uk) for more.
+<br/>
+
+<details>
+  <summary><h2>👦 &nbsp;About Me</h2></summary>
+
+  <h3>👋 &nbsp;Hi there, my name is Harry</h3>
+
+  <p align="left">I have a big interest in technology (more specifically Cyber Security and protecting people online), currently working in Data Forensics. I enjoy coding cyber security projects, wondering about how AI will take over the world alongside creating interactive, user-friendly UI websites. I play football, sometimes too passionate, enjoy playing video games and being an all-round good human being. You can find me on Instagram <a href="https://www.instagram.com/_madebyparker/">@_madebyparker</a>. You can also check out my <a href="https://harryparker.co.uk">personal portfolio</a> for more.</p>
 
 ⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from loving what I'm doing.
 
-### Education: 
+  
+  <h3>🎓 &nbsp;Education:</h3> 
 
-- Plymouth University (2019 - 2020): BSc (Hons) Computer Science Foundation Year - 1st (First Class)
-- Plymouth University (2020 - 2023): BSc (Hons) Computer Science (Cyber Security) - 2:1 (Upper Second) 
+<p align="left">
+  <ul>
+    <li>Plymouth University (2019 - 2020): BSc (Hons) Computer Science Foundation Year - 1st (First Class)</li>
+    <li>Plymouth University (2020 - 2023): BSc (Hons) Computer Science (Cyber Security) - 2:1 (Upper Second)</li>
+  </ul>
 
-## 👇 &nbsp;Current project
+</details>
+
+<details>
+  <summary><h2>👇 &nbsp;What am I working on right now?</h2></summary>
 
 <h3><b>Coming Soon in 2024</b></h3>
 
-I'm currently working on my new developer portfolio website. This will incorporate all of my knowledge of Cyber Security and Web Development to design and create an 3D interactive portfolio which will display the arsenal of skills that I have obtained through education and self learning. Follow the journey [here](https://github.com/MadeByParker/Parker-Command-Central)
+<p align="center">I'm currently working on my new personal portfolio website. This will incorporate all of my knowledge of Cyber Security and Web Development to design and create an 3D interactive portfolio which will display the arsenal of skills that I have obtained through education and self learning. Follow the journey [here](https://github.com/MadeByParker/Parker-Command-Central)</p>
 
-![FaceCCTV](https://github.com/MadeByParker/MadeByParker/blob/main/New%20Banner.jpg)
+<p align="center">
+  <a href="https://github.com/MadeByParker/Parker-Command-Central">
+    <img src="https://imgur.com/zQnj8nb.png"/>
+  </a>
+</p>
 
-## 🧰 &nbsp;My toolbox
+</details>
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C-Sharp" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="Electron" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/> 
+<details>
+  <summary><h2>🧰 &nbsp;My toolbox</h2></summary>
 
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C-Sharp" width="50" height="50"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="Electron" width="50" height="50"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/> 
+  
+</details>
 
-&nbsp;
+<details>
+  <summary><h2>📕 &nbsp;Past work</h2></summary>
 
-## 🖥 &nbsp;Past work
+  <p align="left">
+    <a href="https://github.com/MadeByParker/FaceCCTV"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&theme=react&bg_color=0d1116&title_color=96d6ff&hide_border=true&icon_color=007ec6&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/COMP2002-Artificial-Intelligence-Projects"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&theme=react&bg_color=0d1116&title_color=96d6ff&hide_border=true&icon_color=007ec6&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/Sound-Factory"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Sound-Factory&theme=react&bg_color=0d1116&title_color=96d6ff&hide_border=true&icon_color=007ec6&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+  </p>
+  
+</details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/COMP2002-Artificial-Intelligence-Projects) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)](https://github.com/MadeByParker/FaceCCTV)
+<details> 
+  <summary><h2>⚡ Stats and Activity</h2></summary>
 
+  <h3>🔥 Streak Stats</h3>
 
-## ⚡GitHub Stats
-<!-- Stats -->
-<!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MadeByParker&count_private=true&theme=github_dark&showicons=true)]()
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadeByParker&theme=github_dark&count_private=true&bg_color=0d1116&title_color=96d6ff&text_color=a4aacb&icon_color=007ec6)
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadeByParker&theme=vue-dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
+  </p>
 
-<!-- ## 🔭 I’m currently working on / my projects are: ... :arrow_down:
+  <h3>💻 GitHub Profile Stats</h3>
 
-* Spotify Web Player with lyrics - Used React - `finished`.
-* A security dashboard - `finished`.
-* A Mastermind Code - Breaker game for the console - `finished`.
-* A Dungeon Crawler Console Game - `finished`.
-* Chicken crossing the Road, to tackle learning simple arithmetic maths while playing a game, to increase fun and productivity - `finished`.
-* Portfolio with React JS and Tailwind CSS - `finished` - [Website](https://harryparker.co.uk)
-* FarmBnB hotel booking mobile app - `finished`.
-* Custom C# API - `finished`.
-* Linked Data Application display Plymouth Bus Stop Locations - `finished`
-* Storing Students enrolled on to multiple programmes in a Database + Mobile App to go with it - `finished`.
-* Group Project, designing and building a website using Textpattern - `finished`.
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MadeByParker&count_private=true&theme=vue-dark&showicons=true&hide_border=true&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadeByParker&langs_count=8&layout=compact&theme=vue-dark&hide_border=true&bg_color=273849&title_color=41b581&icon_color=007ec6&hide=PHP" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MadeByParker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MadeByParker&bg_color=0d1116&color=41b883&line=41b883&point=FFFFFF&hide_border=true" /></a>
+  
+</details>
+
+<!--
 
 ## 💻 Technologies Used:
 
@@ -83,24 +121,4 @@ I'm currently working on my new developer portfolio website. This will incorpora
 * Google Firebase (Authentication, Cloud Storage, and Hosting)
 * Microsoft Azure Hosting
 * React
-* PHP
-
-## 🌱 I'm currently learning:
-
-* Java / Kotlin
-* React Native
-* Electron
-
-**harry-parker6/harry-parker6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* PHP -->
