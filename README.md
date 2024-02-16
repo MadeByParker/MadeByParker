@@ -75,9 +75,9 @@
   <summary><h2>📕 &nbsp;Past work</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/MadeByParker/FaceCCTV"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&theme=react&bg_color=0d1116&title_color=96d6ff&hide_border=true&icon_color=007ec6&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
-    <a href="https://github.com/MadeByParker/COMP2002-Artificial-Intelligence-Projects"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&theme=react&bg_color=0d1116&title_color=96d6ff&hide_border=true&icon_color=007ec6&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
-    <a href="https://github.com/MadeByParker/Sound-Factory"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Sound-Factory&theme=react&bg_color=0d1116&title_color=96d6ff&hide_border=true&icon_color=007ec6&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/FaceCCTV"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&theme=react&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/COMP2002-Artificial-Intelligence-Projects"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&theme=vue-dark&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/Sound-Factory"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Sound-Factory&theme=vue-dark&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
   </p>
   
 </details>
