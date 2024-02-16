@@ -54,7 +54,7 @@
 
 <h3><b>Coming Soon in 2024</b></h3>
 
-<p align="center">I'm currently working on my new personal portfolio website. This will incorporate all of my knowledge of Cyber Security and Web Development to design and create an 3D interactive portfolio which will display the arsenal of skills that I have obtained through education and self learning. Follow the journey [here](https://github.com/MadeByParker/Parker-Command-Central)</p>
+<p align="center">I'm currently working on my new personal portfolio website. This will incorporate all of my knowledge of Cyber Security and Web Development to design and create an 3D interactive portfolio which will display the arsenal of skills that I have obtained through education and self learning. Follow the journey <a href="https://github.com/MadeByParker/Parker-Command-Central">here</a></p>
 
 <p align="center">
   <a href="https://github.com/MadeByParker/Parker-Command-Central">
