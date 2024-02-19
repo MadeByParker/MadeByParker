@@ -121,11 +121,14 @@
   <summary><h2>📕 &nbsp;Past work</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/MadeByParker/FaceCCTV"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&theme=angolia&bg_color=003b68&title_color=07a2d4&icon_color=007ec6&&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
-    <a href="https://github.com/MadeByParker/COMP2002-Artificial-Intelligence-Projects"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&theme=angolia&bg_color=003b68&title_color=07a2d4&icon_color=007ec6&&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
-    <a href="https://github.com/MadeByParker/Sound-Factory"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Sound-Factory&theme=angolia&bg_color=003b68&title_color=07a2d4&icon_color=007ec6&&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
-        <a href="https://github.com/MadeByParker/COMP1004-Security-Dashboard"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=COMP1004-Security-Dashboard&theme=angolia&bg_color=003b68&title_color=07a2d4&icon_color=007ec6&&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/FaceCCTV"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&theme=react&bg_color=050f2c&title_color=00aeff&hide_border=true&icon_color=2dde98&show_icons=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/COMP2002-Artificial-Intelligence-Projects"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&theme=react&bg_color=050f2c&title_color=00aeff&hide_border=true&icon_color=2dde98&show_icons=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/Sound-Factory"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Sound-Factory&theme=react&bg_color=050f2c&title_color=00aeff&hide_border=true&icon_color=2dde98&show_icons=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/COMP1004-Security-Dashboard"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=COMP1004-Security-Dashboard&theme=react&bg_color=050f2c&title_color=00aeff&hide_border=true&icon_color=2dde98&show_icons=false" alt="COMP2002 AI Projects"></a>
+
   </p>
+
+  <a href="https://github.com/MadeByParker?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/Link%20to%20all%20Repos-050f2c?style=for-the-badge&logo=github&logoColor=28c48b"/></a>
   
 </details>
 
