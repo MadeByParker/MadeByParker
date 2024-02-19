@@ -87,7 +87,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" alt="MaterializeCSS" width="50" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React JS" width="50" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angolia/angolia-original.svg" alt="angolia JS" width="50" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="50" height="50"/> 
 
@@ -121,10 +121,10 @@
   <summary><h2>📕 &nbsp;Past work</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/MadeByParker/FaceCCTV"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&theme=react&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
-    <a href="https://github.com/MadeByParker/COMP2002-Artificial-Intelligence-Projects"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&theme=vue-dark&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
-    <a href="https://github.com/MadeByParker/Sound-Factory"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Sound-Factory&theme=vue-dark&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
-        <a href="https://github.com/MadeByParker/COMP1004-Security-Dashboard"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=COMP1004-Security-Dashboard&theme=vue-dark&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/FaceCCTV"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=FaceCCTV&theme=angolia&bg_color=003b68&title_color=07a2d4&icon_color=007ec6&&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/COMP2002-Artificial-Intelligence-Projects"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Artificial_Intelligence_COMP2002&theme=angolia&bg_color=003b68&title_color=07a2d4&icon_color=007ec6&&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+    <a href="https://github.com/MadeByParker/Sound-Factory"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=Sound-Factory&theme=angolia&bg_color=003b68&title_color=07a2d4&icon_color=007ec6&&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
+        <a href="https://github.com/MadeByParker/COMP1004-Security-Dashboard"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=COMP1004-Security-Dashboard&theme=angolia&bg_color=003b68&title_color=07a2d4&icon_color=007ec6&&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
   </p>
   
 </details>
@@ -136,26 +136,30 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadeByParker&theme=vue-dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadeByParker&theme=algolia&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MadeByParker&count_private=true&theme=vue-dark&showicons=true&hide_border=true&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadeByParker&langs_count=8&layout=compact&theme=vue-dark&hide_border=true&bg_color=273849&title_color=41b581&icon_color=007ec6&hide=PHP" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MadeByParker&count_private=true&theme=algolia&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadeByParker&langs_count=8&layout=compact&theme=algolia&hide=PHP&hide_border=true" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MadeByParker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MadeByParker&bg_color=273849&color=41b883&line=41b883&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MadeByParker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MadeByParker&bg_color=010628&color=fdfdfd&line=0098e1&point=FFFFFF&hide_border=true" /></a>
   
 </details>
 
 <!--
+
+## Template card
+
+  <a href="https://github.com/MadeByParker/COMP1004-Security-Dashboard"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeByParker&repo=COMP1004-Security-Dashboard&theme=angolia&bg_color=273849&title_color=41b581&icon_color=007ec6&color=FFFFFF&hide_border=true&show_icons=false&show_description=false" alt="COMP2002 AI Projects"></a>
 
 ## 💻 Technologies Used:
 
@@ -167,5 +171,5 @@
 * C# Console App (.NET Framework)
 * Google Firebase (Authentication, Cloud Storage, and Hosting)
 * Microsoft Azure Hosting
-* React
+* angolia
 * PHP -->
