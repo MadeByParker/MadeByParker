@@ -36,8 +36,6 @@
 
   <p align="left">I have a big interest in technology (more specifically Cyber Security and protecting people online), currently working in Data Forensics. I enjoy coding cyber security projects, wondering about how AI will take over the world alongside creating interactive, user-friendly UI websites. I play football, sometimes too passionate, enjoy playing video games and being an all-round good human being. You can find me on Instagram <a href="https://www.instagram.com/_madebyparker/">@_madebyparker</a>. You can also check out my <a href="https://harryparker.co.uk">personal portfolio</a> for more.</p>
 
-⚡ Fun fact: ... I have cerebral palsy but that doesn't stop me from loving what I'm doing.
-
   
   <h3>🎓 &nbsp;Education:</h3> 
 
