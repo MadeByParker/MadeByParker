@@ -1,15 +1,15 @@
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/MadeByParker">
     <img src="https://imgur.com/CcIl23O.png"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0884DF&center=true&vCenter=true&random=false&width=540&height=55&lines=Always+learning+new+things;Data+Forensics+Investigator+in+the+day;Web+Developer+at+night;Cyber+Security+Advocate;5%2B+years+of+coding+experience" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/madebyparker/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://imgur.com/kHKUX5F.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://harryparker.co.uk/"><img width="32" alt="Website" title="Website" src="https://imgur.com/oEMrwNP.png"/></a>
@@ -25,7 +25,7 @@
   <a href="https://github.com/MadeByParker">
     <img src="https://imgur.com/6gBBfs8.png" height="128px"/>
   </a>
-</p>
+</p> -->
 
 <br/>
 
